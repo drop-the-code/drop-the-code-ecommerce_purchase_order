@@ -1,0 +1,27 @@
+{
+  "name": "ecommerce_purchase_order",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ts-node-dev": "^1.1.6"
+  },
+  "devDependencies": {
+    "tslint": "^5.12.1",
+    "typescript": "^3.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drop-the-code/ecommerce_purchase_order.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drop-the-code/ecommerce_purchase_order/issues"
+  },
+  "homepage": "https://github.com/drop-the-code/ecommerce_purchase_order#readme"
+}
